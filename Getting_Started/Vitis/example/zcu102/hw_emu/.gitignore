@@ -1,0 +1,9 @@
+# Exclude all files in buiild directory
+*
+!.gitignore
+
+# Add source files back in
+!Makefile
+!build_and_run.sh
+!run_app.sh
+!xrt.ini
